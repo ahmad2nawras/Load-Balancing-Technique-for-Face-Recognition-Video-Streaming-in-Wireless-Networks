@@ -19,10 +19,52 @@ The controller, through collect information about the links congestions and util
 # Network Topology 
 The network Topology consists of nine APs connected to three central switches (each switch connect three APs) on Cosenza City roads
 All links has the same capacity 10 Mbps from the APs to the switches.
+
 <p align="center">
-  <img src="https://github.com/ahmad2nawras/Load-Balancing-Technique-for-Face-Recognition-Video-Streaming-in-Wireless-Networks/main/images/Images/topology.png" alt="alt text" width="width" height="height" />
+  <img src="https://github.com/ahmad2nawras/Load-Balancing-Technique-for-Face-Recognition-Video-Streaming-in-Wireless-Networks/blob/843e6782cd72e0b1d19345d7c69c6e69a69a4d43/Images/topology.png" alt="alt text" width="width" height="height" />
   <br>
-  <em>Figure 1: The Dataset Distribution</em>
+  <em>Figure 1: The Topology</em>
 </p>
 
+
+<p align="center">
+  <img src="https://github.com/ahmad2nawras/Load-Balancing-Technique-for-Face-Recognition-Video-Streaming-in-Wireless-Networks/blob/70fc76b03286448cfa24bd49c7670041c64c1976/Images/RYU%20topo.png" alt="alt text" width="width" height="height" />
+  <br>
+  <em>Figure 2: The RYU Topology</em>
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/ahmad2nawras/Load-Balancing-Technique-for-Face-Recognition-Video-Streaming-in-Wireless-Networks/blob/70fc76b03286448cfa24bd49c7670041c64c1976/Images/netx%20topo.png" alt="alt text" width="width" height="height" />
+  <br>
+  <em>Figure 3: The Networkx Topology</em>
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/ahmad2nawras/Load-Balancing-Technique-for-Face-Recognition-Video-Streaming-in-Wireless-Networks/blob/70fc76b03286448cfa24bd49c7670041c64c1976/Images/SUMO%20topo.png" alt="alt text" width="width" height="height" />
+  <br>
+  <em>Figure 4: The SUMO Topology</em>
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/ahmad2nawras/Load-Balancing-Technique-for-Face-Recognition-Video-Streaming-in-Wireless-Networks/blob/70fc76b03286448cfa24bd49c7670041c64c1976/Images/mininet%20topo.png" alt="alt text" width="width" height="height" />
+  <br>
+  <em>Figure 5: Mininet Topology</em>
+</p>
+
+# Results
+
+<p align="center">
+  <img src="https://github.com/ahmad2nawras/Load-Balancing-Technique-for-Face-Recognition-Video-Streaming-in-Wireless-Networks/blob/70fc76b03286448cfa24bd49c7670041c64c1976/Images/PSNR.png" alt="alt text" width="width" height="height" />
+  <br>
+  <em>Figure 6: PSNR</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/ahmad2nawras/Load-Balancing-Technique-for-Face-Recognition-Video-Streaming-in-Wireless-Networks/blob/70fc76b03286448cfa24bd49c7670041c64c1976/Images/throughput.png" alt="alt text" width="width" height="height" />
+  <br>
+  <em>Figure 7: Throughout</em>
+</p>
 
