@@ -19,4 +19,10 @@ The controller, through collect information about the links congestions and util
 # Network Topology 
 The network Topology consists of nine APs connected to three central switches (each switch connect three APs) on Cosenza City roads
 All links has the same capacity 10 Mbps from the APs to the switches.
-Images/topology.png
+<p align="center">
+  <img src="https://github.com/ahmad2nawras/Load-Balancing-Technique-for-Face-Recognition-Video-Streaming-in-Wireless-Networks/main/images/Images/topology.png" alt="alt text" width="width" height="height" />
+  <br>
+  <em>Figure 1: The Dataset Distribution</em>
+</p>
+
+
